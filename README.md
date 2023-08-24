@@ -1,3 +1,3 @@
 # xlsx2docx
 
-Process .xls text into .doc files
+Convert .xls row into formatted individual .doc files
